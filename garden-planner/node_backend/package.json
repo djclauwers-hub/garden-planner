@@ -1,0 +1,13 @@
+{
+  "name": "garden-planner-node-backend",
+  "version": "1.0.0",
+  "description": "A backend for the garden planner app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "author": "djclauwers-hub",
+  "license": "ISC"
+}
